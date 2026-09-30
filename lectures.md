@@ -11,3 +11,17 @@
 Презентация: https://docs.google.com/presentation/d/1RCqCO5lwLfJNVOCM9FcKaKSVCohVQHn5/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
 
 Запись лекции: https://pgniu.ktalk.ru/recordings/JLAUxFU29u1l6H7ubZ2l
+
+## Лекция 3 (22 сентября)
+Тема: процессы
+
+Презентация: https://docs.google.com/presentation/d/1avUEkml4PqIO7QCo0wYo_TOXlPXuw87p/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/LI2rZwHMBPS8AoZP0eJX
+
+## Лекция 4 (29 сентября)
+Тема: потоки
+
+Презентация: https://docs.google.com/presentation/d/1epVwcmXdr6barrN6U9GqzHma5UsRa1b9/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/RPSIoqm0cUJ9jAGXz1L9
