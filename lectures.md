@@ -25,3 +25,10 @@
 Презентация: https://docs.google.com/presentation/d/1epVwcmXdr6barrN6U9GqzHma5UsRa1b9/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
 
 Запись лекции: https://pgniu.ktalk.ru/recordings/RPSIoqm0cUJ9jAGXz1L9
+
+## Лекция 5 (6 октября)
+Тема: синхронизация потоков/процессов и межпроцессная коммуникация. Часть 1/2
+
+Презентация: https://docs.google.com/presentation/d/1EtvkuPO8ze4yQ0MremQat4eruYUzAsAH/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/xY6CUZsoyIZ2qN6bwy0W
