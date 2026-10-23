@@ -32,3 +32,19 @@
 Презентация: https://docs.google.com/presentation/d/1EtvkuPO8ze4yQ0MremQat4eruYUzAsAH/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
 
 Запись лекции: https://pgniu.ktalk.ru/recordings/xY6CUZsoyIZ2qN6bwy0W
+
+## Лекция 6 (13 октября)
+Тема: синхронизация потоков/процессов и межпроцессная коммуникация. Часть 2/2
+
+Презентация: https://docs.google.com/presentation/d/1EthUzbfxy8QsC1RppwqC1QOkUoXoLrGI/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции (из-за неполадок пришлось перейти в Телемост, поэтому запись лекции поделена на две части)
+Часть 1: https://pgniu.ktalk.ru/recordings/j1LAZOUDzqAWiLR7Utxk
+Часть 2: https://drive.google.com/file/d/1FqGkLN5YxqcZQtTMKEgMcnoFcoDwLzio/view?usp=sharing
+
+## Лекция 7 (20 октября)
+Тема: планирование
+
+Презентация: https://docs.google.com/presentation/d/17PQ9-KJ7PHrnLZqOp4EPyIbFcwOzPZmx/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/UDQIeeAijulNFFztL3fe
