@@ -48,3 +48,24 @@
 Презентация: https://docs.google.com/presentation/d/17PQ9-KJ7PHrnLZqOp4EPyIbFcwOzPZmx/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
 
 Запись лекции: https://pgniu.ktalk.ru/recordings/UDQIeeAijulNFFztL3fe
+
+## Лекция 8 (27 октября)
+Тема: Управление памятью. Часть 1
+
+Презентация: https://docs.google.com/presentation/d/1kdZLfo6jJROp-84BZX4CtRUtnz1cj6tT/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/GhRLZOiDoez3meCPtI2c
+
+## Лекция 9 (3 ноября)
+Тема: Управление памятью. Часть 2
+
+Презентация: https://docs.google.com/presentation/d/1t6Lt0qI5kDgK9ud9t2oNsJh8tqZTLieO/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/PYLYClWpYCWFDgoOF1hV
+
+## Лекция 10 (10 ноября)
+Тема: Управление памятью. Часть 3
+
+Презентация: https://docs.google.com/presentation/d/1SUqNN065OC8jMLEFoeUMgwKzmUuCw6NZ/edit?usp=sharing&ouid=117707914097193494510&rtpof=true&sd=true
+
+Запись лекции: https://pgniu.ktalk.ru/recordings/MRP9vDlCnhPilaekUxqu
